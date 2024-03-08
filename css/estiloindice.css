@@ -1,0 +1,150 @@
+#menuSuperior{
+    display: flex;
+}
+
+#menuSuperior nav ul{
+    font-size: 24px;
+    justify-content: right;
+    display: flex;
+    padding-left: 1000px;
+}
+#menuSuperior nav ul li{
+    list-style: none;
+    padding: 10px;
+    color: blueviolet;
+    justify-content: center;
+    padding-left: 80px;
+}
+
+#menuSuperior nav ul li a{
+    text-decoration: none;
+    color: blueviolet;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#queesTwitch img{
+    justify-content:center;
+    display: flex;
+    display: inline-block;
+    vertical-align: top;
+    width: 150px;
+}
+
+#fondoTwitch, #porqueTwitch{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+#porqueTwitch{
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+#porqueTwitch img{
+    width: 450px;
+    margin-right: 10px;
+    padding-left: 20px;
+}
+
+#fondoTwitch img{
+    width: 450px;
+    margin-right: 10px;
+    padding-right: 20px;
+}
+
+#filaLogo{
+    width: 200px;
+}
+
+body{
+    background-color: black;
+}
+
+h1,h2{
+    color: blueviolet;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: center;
+}
+
+p{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 68px;
+}
+
+#twitchEs{
+    display: inline-block;
+}
+
+#hemosElegido{
+    display: inline-block;
+}
+
+#logo img{
+    width: 200px;
+    padding-left: 60px;
+    padding-top: 15px;
+}
+
+
+.fotosstreamers, img{
+    width: 200px;
+}
+
+#catjuegos{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-right: 350px;
+}
+
+#catIRL{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-right: 300px;
+    padding-top: 60px;
+}
+
+#catJustChatting{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-right: 370px;
+    padding-top: 60px;
+}
+
+#primeros4{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#segundos4{
+    display: flex;
+    justify-content: center; 
+    justify-content: space-evenly;
+    padding-top: 60px;
+}
+
+#terceros4{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    padding-top: 60px;
+}
+
+#top10{
+    align-items: center;
+}
+
+hr {
+    border-color:blueviolet
+}
+
+#pinfostreamers p{
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: right;
+}
